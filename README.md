@@ -29,6 +29,7 @@ npm start
 ```
 
 Heroku Deployment :
+Given that the free tier of MongoDB Atlas uses clusters without a defined IP address, you will need to whitelist all connections on your MongoDB Atlas project (`0.0.0.0/0`).
 
 ```
 heroku create
