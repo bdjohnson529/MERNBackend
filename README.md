@@ -27,6 +27,6 @@ npm start
 ```
 
 ## Credit
-[NPM Documentation](https://docs.npmjs.com/cli/start.html)
-[Express Routes and Controllers](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/routes)
-[Deploying a MERN application to Heroku](https://www.freecodecamp.org/news/deploying-a-mern-application-using-mongodb-atlas-to-heroku/)
+- [NPM Documentation](https://docs.npmjs.com/cli/start.html)
+- [Express Routes and Controllers](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/routes)
+- [Deploying a MERN application to Heroku](https://www.freecodecamp.org/news/deploying-a-mern-application-using-mongodb-atlas-to-heroku/)
