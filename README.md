@@ -21,9 +21,18 @@ MONGO_DATABASE=mydb
 
 ## Usage
 
+Local Deployment :
+
 ```
 npm install
 npm start
+```
+
+Heroku Deployment :
+
+```
+heroku create
+git push heroku master
 ```
 
 ## Credit

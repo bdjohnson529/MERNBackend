@@ -3,7 +3,7 @@ const express = require('express');
 const app = express();
 
 // USERS data model
-const User = require('../models/User');
+const User = require('../models/user');
 
 // GET method
 app.get('/', (req, res) => {
