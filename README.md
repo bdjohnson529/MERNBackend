@@ -1,6 +1,6 @@
 # MongoDB, Express, NodeJS Server
 
-This package demonstrates a Javascript backend framework for web apps, using Express, NodeJS, and MongoDB. This tech stack, combined with a React frontend, is commonly referred to as the MERN tech stack. MongoDB is a NoSQL database, and Express is a Javascript framework capable of serving web apps.
+This package demonstrates a Javascript backend framework for web apps, using Express, NodeJS, and MongoDB. This tech stack, combined with a React frontend, is commonly referred to as the MERN tech stack. MongoDB is a NoSQL database, and Express is a Javascript framework capable of serving web apps. NodeJS is a Javascript runtime environment.
 
 This package is configured to serve a simple API over a local network. The API includes one route, `users`, which controls the interface to the **Users** model in the database. The **Users** data model has two attributes, **name**, and **email**. The data model was chosen for simplicity, to demonstrate two main ways to interact with the MongoDB, `POST` and `GET`.
 
